@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.30) # FetchContent is available in 3.11+
-project(ProiectPOO)
+project(SquareMarchingMiningGame)
 
 # For sanitizers
 # set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -g -fsanitize=address -fno-omit-frame-pointer")
