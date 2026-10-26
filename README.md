@@ -1,5 +1,7 @@
 # Square Marching Mining Game
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/361164f6-961d-45fb-b76c-511480ba3247" />
+
 A 2D submarine mining game built in **C++ with Raylib**. The terrain is rendered entirely on the GPU using a custom **Square Marching** fragment shader. Explore cavern systems, mine for ores, and fight off creatures that get nastier the deeper you go.
 
 > **Status:** Early development. Core terrain, player movement, mining, and inventory are working. Enemy AI and most gameplay systems are still WIP.
